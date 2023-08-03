@@ -15,7 +15,7 @@ Objective: MERN stack web appliaction to enable users to read news briefly as we
 
 # On scrolling further
 
-![image](https://github.com/CaLYPsO19/InShorts-News-App/assets/93235923/27856f35-ae69-41e0-b148-f29bffd9e356)
+![inshorts3](https://github.com/CaLYPsO19/InShorts-News-App/assets/93235923/4639ecf4-8eb8-4495-8f1c-c8669f55664f)
 
 # Built With
 

@@ -8,3 +8,5 @@ Objective: MERN stack web appliaction to enable users to read news briefly as we
 • Developed backend using NodeJS and ExpressJS to provide the feature to access news, made the app fully responsive.
 
 • Incorporated MongoDB database to store data regarding the images and description of the news
+
+

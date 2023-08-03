@@ -9,4 +9,9 @@ Objective: MERN stack web appliaction to enable users to read news briefly as we
 
 • Incorporated MongoDB database to store data regarding the images and description of the news
 
+# Home Page
+
+![InShorts](https://github.com/CaLYPsO19/InShorts-News-App/assets/93235923/f1a327ab-88bc-46b1-9af1-0852854563b4)
+
+
 
